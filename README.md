@@ -1,4 +1,4 @@
-# 🍼 Análise de Nascidos Vivos (SINASC - CE 2021)
+# 🍼📊 Análise de Nascidos Vivos (SINASC - CE 2021)
 
 Este projeto tem como objetivo realizar uma análise exploratória e visual sobre os dados de nascidos vivos no estado do Ceará, utilizando a base pública do **SINASC (Sistema de Informações sobre Nascidos Vivos)**, disponibilizada pelo **Datasus**.
 
