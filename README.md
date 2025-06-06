@@ -34,7 +34,7 @@ Este projeto tem como objetivo realizar uma análise exploratória e visual sobr
 1. **Importação dos dados**  
 2. **Limpeza e pré-processamento**
 3. **Análise descritiva e estatística**
-4. Construção de um Modelo Preditivo
+4. ** Construção de um Modelo Preditivo**
 5. **Visualização de padrões (gráficos e dashboards)**
 
 ---
