@@ -7,16 +7,24 @@ Este projeto tem como objetivo realizar uma análise exploratória e visual sobr
 ## 📁 Estrutura do Projeto
 
 ├── data/
+
 │   ├── raw/            ← dados brutos 
+
 │   └── clean/          ← dados tratados 
+
 ├── notebooks/          ← notebooks separados por tema
+
 │   ├── 01_importacao_dados.ipynb
 │   ├── 02_limpeza_dados.ipynb
 │   ├── 03_analise_exploratoria.ipynb
 │   ├── 04_visualizacoes.ipynb
+
 ├── scripts/            ← trechos em Python
+
 ├── README.md           ← explicação do projeto
+
 ├── .gitignore
+
 └── requirements.txt    ← bibliotecas usadas 
 
 ---
